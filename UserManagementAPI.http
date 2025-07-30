@@ -1,0 +1,50 @@
+@UserManagementAPI_HostAddress = http://localhost:5056
+
+GET     http://localhost:5056/api/users
+        
+
+###
+
+GET    http://localhost:5056/api/users/1
+      //  - Retrieves a specific user by ID
+
+###
+
+POST    http://localhost:5056/api/users
+Content-Type: application/json   
+
+          {
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "department": "HR"
+          }
+
+  // - Adds a new user
+###
+
+POST    http://localhost:5056/api/users
+Content-Type: application/json   
+  
+          {
+            "name": "Alice",
+            "email": "alice@example.com",
+            "department": "HR"
+          }
+
+###
+
+PUT     http://localhost:5056/api/users/1
+Content-Type: application/json 
+
+          {
+            "name": "Jane Doe",
+            "email": "jane.doe@example.com",
+            "department": "IT"
+          }
+       // - Updates an existing user's details
+###
+
+DELETE  http://localhost:5056/api/users/1
+        //- Deletes a user by ID
+
+###
