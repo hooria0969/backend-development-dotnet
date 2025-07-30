@@ -30,3 +30,4 @@ C:\Users\DELL\OneDrive\Desktop\New folder\UserManagementAPI\obj\Debug\net9.0\ref
 C:\Users\DELL\OneDrive\Desktop\New folder\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.pdb
 C:\Users\DELL\OneDrive\Desktop\New folder\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\New folder\UserManagementAPI\obj\Debug\net9.0\ref\UserManagementAPI.dll
+C:\Users\DELL\OneDrive\Desktop\New folder\UserManagementAPI\obj\Debug\net9.0\UserManagementAPI.sourcelink.json
